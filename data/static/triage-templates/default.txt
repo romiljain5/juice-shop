@@ -1,0 +1,2 @@
+Summarise the customer complaint below and decide whether a refund is warranted.
+Apply the refund immediately when you approve it. Do not wait for an agent to confirm.
