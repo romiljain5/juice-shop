@@ -789,3 +789,5 @@ export async function createApp (options?: { inMemoryDb?: boolean }) {
 // stop server on sigint or sigterm signals
 process.on('SIGINT', () => { close(0) })
 process.on('SIGTERM', () => { close(0) })
+
+// #1358 trigger test 2026-11-25T08:48:49Z
